@@ -1,0 +1,6 @@
+﻿  ax.cpp
+  client.cpp
+D:\Visual Studio\RDC Client\RDC Client\client.cpp(429,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+D:\Visual Studio\RDC Client\RDC Client\client.cpp(530,27): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  Generating Code...
+  RDC Client.vcxproj -> D:\Visual Studio\RDC Client\x64\Debug\RDC Client.exe
